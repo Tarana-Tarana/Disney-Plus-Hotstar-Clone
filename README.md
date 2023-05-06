@@ -1,5 +1,5 @@
 # Disney-Plus-Hotstar-Clone
-A Front-end Clone of Disney+ Hotstar Website developed using HTML, CSS and JavaScript
+A Front-End Clone of Disney+ Hotstar Website developed using HTML, CSS and JavaScript
 # Description
 The homepage consists of a header with the Disney+ Hotstar logo, search bar, and navigation menu. The main section has a carousel slider displaying the latest movies and TV shows, a section displaying featured content and a list of genres.
 
